@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ece-Aydin
-- 👀 I’m interested in IoT, cloud computing, artificial intelligence, big data, machine learning, deep learning, geographic information system (GIS) 
-- 🌱 I’m currently learning agile methodology, WordPress, after effects
-- 💞️ I’m looking to collaborate on software projects
+- 👀 I’m interested in Project Management, Business Analysis, UI-UX Design and Software. 
+- 🌱 I’m currently learning material design, Adobe XD.  
+- 💞️ I’m looking to collaborate on IT, Technology Project
 - 📫 How to reach me: simgeeceaydin@gmail.com
 
 <!---
